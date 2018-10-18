@@ -1,0 +1,77 @@
+body {
+	font-family: 'Niramit', sans-serif;
+	
+}
+
+.green {
+	color: #8FFE8E;
+}
+
+.blue {
+	background-color: #29A8D9;
+}
+
+.pink {
+	 color: #F020F2;
+}
+
+.turqouise {
+	color: #06C5BF;
+}
+
+.darkpink {
+	color: #ED186E;
+}
+
+h1 {
+	text-align: center;
+}
+
+.card{
+	height: 150px;
+	width: 150px;
+	border: 1px solid black;
+	margin: 10px 10px;
+	text-align: center;
+}
+
+.estilos{
+	display: flex;
+	margin-left: 32%;
+}
+
+li{list-style:none;}
+
+.rockNacional{
+	text-align:center;
+	text-decoration:none;
+	font-size:20px;
+}
+
+a.fill-div {
+	text-align: center;
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+}
+
+.home-icon {
+	height:70px;
+}
+
+.header {
+	display:flex;
+	text-align:center;
+	width:100%;
+}
+
+.header img {
+	margin-right:2px;
+}
+
+.header-logo-spotnet {
+	display: flex;
+    align-items: center;
+    padding: 0 39%;
+}
